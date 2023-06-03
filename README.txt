@@ -1,0 +1,1 @@
+Aqui está registrado a parte front_end do projeto MarketPlace EasyByte criado pelos alunos da Fatec de ADS Segundo Semestre.
